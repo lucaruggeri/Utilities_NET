@@ -1,0 +1,6 @@
+C:\SOFTWARE\Utilities (.NET)\Utilities_NET\Utilities\Utilities\obj\Debug\Utilities.WinformPromptDialog.resources
+C:\SOFTWARE\Utilities (.NET)\Utilities_NET\Utilities\Utilities\obj\Debug\Utilities.csproj.GenerateResource.Cache
+C:\SOFTWARE\Utilities (.NET)\Utilities_NET\Utilities\Utilities\bin\Debug\Utilities.dll
+C:\SOFTWARE\Utilities (.NET)\Utilities_NET\Utilities\Utilities\bin\Debug\Utilities.pdb
+C:\SOFTWARE\Utilities (.NET)\Utilities_NET\Utilities\Utilities\obj\Debug\Utilities.dll
+C:\SOFTWARE\Utilities (.NET)\Utilities_NET\Utilities\Utilities\obj\Debug\Utilities.pdb
